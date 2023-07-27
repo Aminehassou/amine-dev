@@ -3,7 +3,7 @@ author: Ahmed Amine Hassou
 pubDatetime: 2023-05-21T00:00:00Z
 title: Welcome!
 postSlug: welcome
-featured: true
+featured: false
 draft: false
 tags:
   - intro
